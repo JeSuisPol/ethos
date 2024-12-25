@@ -19,6 +19,11 @@
 - short: `categorical_imperative`
 - long: `I act as if the maxims of my action were to become through my will a universal law of nature.`
 - reference: the [Kantian Categorical Imperative](https://en.wikipedia.org/wiki/Categorical_imperative)
+  
+### Respect to the ten commandaments
+- short: `ten-commandaments`
+- long: `I try to have all my actions in conformation to the ten commandaments`
+- reference: the [Ten commandaments] (https://en.wikipedia.org/wiki/Ten_Commandments)
 
 ### Acknowledge the Existence of Another Ethos
 
@@ -41,18 +46,23 @@
 ### No Contradiction Claim
 
 - short: `no_contradiction_claim`
-- long: `I will not transact with persons who have not answered all types of claims that contradict their own ethos. (If I can avoid it.)`
+- long: `I will not transact with persons who are not willing to answer all types of claims that contradict their own ethos. (If I can avoid it.)`
 
 ### Have the Top Virtues Explicit
 
 - short: `defined_top`
-- long: `I will not transact with persons who have not defined their top values/virtues in their ethos.`
+- long: `I will not transact with persons who are not willing to define their top values/virtues in their ethos.`
 
 ### Known Identity
 
 - short: `known_identity`
 - long: `I will not transact with people who do not share their official/legal identity.`
 
+### Known truth
+
+- short: `known_truth`
+- long: `I will not transact with people who have used more than three times untruhtful language`
+  
 ### Reciprocal Declarations
 
 - short: `reciprocal_declarations`
